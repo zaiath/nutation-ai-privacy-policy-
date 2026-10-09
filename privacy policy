@@ -1,0 +1,10 @@
+1. **Who we are:** Nutrition AI, contact email.
+2. **Data we collect:** account email, profile (age, gender, height, weight, activity level, health condition notes), meal and workout logs, device/app usage data needed for crash reporting.
+3. **How we use it:** to calculate calorie targets, show your logs and charts, and run the app.
+4. **Where it's stored:** Google Cloud (Firebase/Firestore) with encryption in transit and at rest; sensitive health fields are encrypted at the application level.
+5. **Third parties:** Firebase Authentication (sign-in), Google Cloud (hosting data), AI service providers used to analyze food descriptions (state the provider names you actually use).
+6. **We don't sell personal data.**
+7. **Your rights:** access, correction, and deletion. Explain how to request deletion (email address).
+8. **Children:** not for users under 18.
+9. **Changes and contact.**
+syedmasood9245@gmail.com
